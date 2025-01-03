@@ -1,27 +1,20 @@
 TEAM 27 
 
 MEMBERS
-    Daniel Akinyemi     - 101210227
-    James Ebbah-Idala   - 101197289
-    Chiedu Ezinwa       - 101195869
+    Daniel Akinyemi     
+    James Ebbah-Idala   
+    Chiedu Ezinwa       
 
 BREAKDOWN OF RESPONSIBILITIES
-
-    We met up at the library and on zoom 7 times to all work on the code and designs at the same time but this is a break down of our individual efforts. 
-    Everything else done as a whole (ideas and execution). "denas-prototype" was a reference for our project
-    
-    Diagrams & Design 
-        Chiedu Ezinwa - UseCases, UML Diagram, Sequence diagrams, Video Demonstration
-        Daniel Akinyemi - Traceability Matrix, README, UseCases, StateDiagrams, Test Cases, Video Demonstration
-        James Ebbah-Idala - Traceability Matrix, Test Cases, Video Demonstration
+    The entirety was done as a whole (ideas and execution). "denas-prototype" was a reference for our project
     
     Implementations & Code 
-        Chiedu Ezinwa - Cohenrence level light display, power button functionality, Database for history 
         Daniel Akinyemi - Button functionality and metrics computations (values and Graphs)
+        Chiedu Ezinwa - Cohenrence level light display, power button functionality, Database for history 
         James Ebbah-Idala - Button functionality, Graphs display, charge and Button functionality
 
 
-Files Submitted 
+Files Uploaded
     STATEDIAGRAM.pdf
     UseCases.pdf
     TraceabilityMatrix.pdf
@@ -56,9 +49,6 @@ Files Submitted
         Show you can view session and delete all sessions
         Show you can change breath pacer levels
         Account for extreme coherence cases
-
-    GITHUB
-        https://github.com/DanielakTtwenty/COMP3004
 
 
 Functionality 
